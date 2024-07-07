@@ -397,6 +397,7 @@ export default {
       leftDrawerOpen, menus, currentUser, loadingObject, sourceStreamStatus, showSettings, selectedSourceId, emptyBase64Image,
       activeLeftMenu, selectedSourceAddress, mainViewHeight, theme, showRightDropDown, locale, showUiSettings,
       localeOptions: [
+        {value: 'ar', label: 'العربية'},
         {value: 'en-US', label: 'English'},
         {value: 'tr-TR', label: 'Türkçe'}
       ],
