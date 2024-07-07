@@ -257,6 +257,7 @@ const onRegister = async () => {
 
 
 const localeOptions = [
+  {value: 'ar', label: 'العربية'},
   {value: 'en-US', label: 'English'},
   {value: 'tr-TR', label: 'Türkçe'}
 ];
